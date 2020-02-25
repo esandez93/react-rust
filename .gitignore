@@ -1,0 +1,13 @@
+.DS_Store
+
+dist/*
+!dist/index.html
+
+.cache
+.env
+
+lib/pkg
+lib/Cargo.lock
+lib/target
+
+node_modules/
